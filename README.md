@@ -7,6 +7,5 @@ Can select multiple OCR images to convert text in to speech
 Above all functions are created and made a app in matlab so that user can easly perform the above functions
 
 For more detaisl 
-Contact : 7995167798
-Name    : karikaaludu
-mail    : kalarajinikanth@gmail.com
+Contact : www.linkedin.com/in/karikaaludu
+
